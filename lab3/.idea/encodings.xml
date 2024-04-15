@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_de.properties" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_en.properties" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_en.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_es.properties" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_fr.properties" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_ru.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_ru.properties" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_ru.properties" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/messages_ru.properties" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/native2ascii/messages.loc" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/native2ascii/messages.properties" charset="US-ASCII" />
+  </component>
+</project>
