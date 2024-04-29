@@ -1,0 +1,5 @@
+.idea/
+lib/
+ant/
+target/
+secret.cfg
